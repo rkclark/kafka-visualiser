@@ -28,7 +28,7 @@
     "helmet": "^3.15.0",
     "kafka-node": "^3.0.1",
     "lodash": "^4.17.11",
-    "socket.io": "^2.2.0",
+    "socket.io": "^2.5.0",
     "uuid": "^3.3.2"
   },
   "devDependencies": {
